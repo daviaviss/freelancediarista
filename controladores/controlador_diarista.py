@@ -1,0 +1,2 @@
+class ControladorDiarista:
+    pass
